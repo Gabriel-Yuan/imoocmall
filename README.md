@@ -1,7 +1,10 @@
 # imoocmall
 
-> Imooc Mall 
+> Imooc Mall
 
+根据慕课网vue2.0+node.js+MongoDB全栈打造商城课程编写
+
+数据库文件在resource文件夹中
 ## Build Setup
 
 ``` bash
