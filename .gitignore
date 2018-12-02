@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+# Created by .ignore support plugin (hsz.mobi)
+=======
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+>>>>>>> '提交'
