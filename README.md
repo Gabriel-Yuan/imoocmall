@@ -7,6 +7,7 @@
 数据库文件在resource文件夹中
 ## Build Setup
 
+
 ``` bash
 # install dependencies
 npm install
